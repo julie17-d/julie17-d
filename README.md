@@ -34,7 +34,7 @@ Seule cette fois, j'ai décidé de créer un site simple pour découvrir le lang
 
 ---
 
-### [The Movies](https://github.com/julie17-d/projet_collectif_rs_php_mwaj)
+### [Movie Talks](https://github.com/julie17-d/projet_collectif_rs_php_mwaj)
 
 En équipe de quatre (moi-même, Alex, Woirda et Mehmet), nous avons créé un site faisant appel à l'API Open Movie Database. Ce site permet de rechercher un film et de laisser des critiques ainsi que des notes. Grâce à un système d'authentification, chaque critique est liée au nom d'utilisateur. Ce projet a été réalisé en PHP, JS, HTML, CSS, avec JQuery et une BDD MySQL.
 
