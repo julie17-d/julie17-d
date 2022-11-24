@@ -43,8 +43,7 @@ En équipe de quatre (moi-même, Alex, Woirda et Mehmet), nous avons créé un s
 ### Anciens Meubles Pour une Nouvelle Vie : [Front](https://github.com/julie17-d/projet-collectif---front-fraises) | [Back](https://github.com/julie17-d/projet-collectif---back-fraises)
 
 Cette fois-ci en équipe de neuf, nous avons réalisé en deux semaines un site de vente de meubles. L'occasion pour nous de découvrir React, NodeJS et MongoDB.
-Nous nous sommes répartis en deux équipes : la moitié d'entre nous à travailler sur le front une semaine, puis sur le back la deuxième semaine, et inversement. C'était la première fois que je travaillais dans un si grand groupe, et cela fut une véritable opportunité d'apprendre l'organisation et la communication parmis tant de développeurs.
-
+Nous nous sommes répartis en deux équipes : la moitié d'entre nous à travailler sur le front une semaine, puis sur le back la deuxième semaine, et inversement. C'était la première fois que je travaillais dans un si grand groupe, et cela fut une véritable opportunité d'apprentissage d'organisation et de communication parmis tant de développeurs différents.
 
 ---
 
