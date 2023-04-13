@@ -56,3 +56,9 @@ Nous nous sommes répartis en deux équipes : la moitié d'entre nous à travail
 ### [Eat Up!](https://github.com/julie17-d/Eat_Up)
 
 Durant ma formation, j'ai eu l'occasion de me confronter à la réalisation d'une appli mobile. Le langage, la plateforme, et l'équipe était libre. Avec Zoë et Sandrine, nous avons décidé de créer une appli Android en Kotlin permettant d'avoir accès à des recettes en fonction des besoins spécifiques de chacun (végétarien, intolerant au lactose...). En quatre semaines, nous avons réussi à avoir une appli dont nous sommes fières !
+
+---
+
+### [Buzzwords](https://github.com/julie17-d/buzzwords-front)
+
+Afin d'approfondir mes connaissances en React et Node.JS, ainsi que de découvrir Tailwind, je suis actuellement en pleine création d'un site type bibliothèque virtuelle. Ce site a pour but de permettre aux utilisateurs de répertorier leurs lectures passées, actuelles et futures. J'ai pour cela fais appel à l'API Google Books.
