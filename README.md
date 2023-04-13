@@ -50,3 +50,9 @@ Nous nous sommes répartis en deux équipes : la moitié d'entre nous à travail
 ### [Near Earth Objects](https://github.com/julie17-d/neo)
 
 À l'occasion d'un test technique, j'ai réalisé un petit site en moins d'une semaine avec deux APIs de la NASA sur les astéroïdes. Ce fut l'occasion de m'initier au framework Django, que je n'avais  jamais utilisé auparavant.
+
+---
+
+### [Eat Up!](https://github.com/julie17-d/Eat_Up)
+
+Durant ma formation, j'ai eu l'occasion de me confronter à la réalisation d'une appli mobile. Le langage, la plateforme, et l'équipe était libre. Avec Zoë et Sandrine, nous avons décidé de créer une appli Android en Kotlin permettant d'avoir accès à des recettes en fonction des besoins spécifiques de chacun (végétarien, intolerant au lactose...). En quatre semaines, nous avons réussi à avoir une appli dont nous sommes fières !
