@@ -3,9 +3,9 @@
 
 Je m'appelle Julie et je suis actuellement étudiante en **développement informatique** à Ada Tech School.
 
-Je suis à l'aise dans les langages **JavaScript, Python et Lua** et je me débrouille en **C#, HTML, CSS et PHP**.
+Je suis à l'aise dans les langages **JavaScript, HTML, CSS, C#, Python et Lua** et je me débrouille en **PHP**.
 
-Je possède également des bases en **développement de jeux vidéo (Unity, Pico-8, Godot)**.
+Je développe également des **jeux vidéo (Unity, Pico-8, Godot)**.
 
 Je suis par ailleurs passionnée de littérature, notamment de littérature de l'imaginaire, et de toutes formes de narrations (cinéma, jeux vidéo...). J'ai par le passé suivie des études de Lettres et d'Anglais avant de me réorienter dans l'informatique. J'aime pouvoir me prendre la tête ainsi que de créer des choses à partir de rien.
 
@@ -62,3 +62,15 @@ Durant ma formation, j'ai eu l'occasion de me confronter à la réalisation d'un
 ### [Buzzwords](https://github.com/julie17-d/buzzwords-front)
 
 Afin d'approfondir mes connaissances en React et Node.JS, ainsi que de découvrir Tailwind, je suis actuellement en pleine création d'un site type bibliothèque virtuelle. Ce site a pour but de permettre aux utilisateurs de répertorier leurs lectures passées, actuelles et futures. J'ai pour cela fais appel à l'API Google Books.
+
+---
+
+### [Catch A Ball](https://github.com/julie17-d/Catch-a-Ball)
+
+Création d'un site ludique de collection et de combats de cartes Pokémon en React et NodeJS avec une BDD MySQL. Le tout est conteneurisé avec Docker. Réalisé avec Zoë dans le cadre du projet RNCP.
+
+---
+
+### [Animal Refuge '98](https://github.com/julie17-d/Animal-Refuge-98/tree/feature-setup)
+
+Jeu sur Unity en C#. Gérez un refuge pour animaux à travers une interface graphique de Windows 98.
