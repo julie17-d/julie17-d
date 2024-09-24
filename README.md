@@ -1,11 +1,7 @@
 ### Bonjour ! 👋
 
 
-Je m'appelle Julie et je suis actuellement étudiante en **développement informatique** à Ada Tech School.
-
-Je suis à l'aise dans les langages **JavaScript, HTML, CSS, C#, Python et Lua** et je me débrouille en **PHP**.
-
-Je développe également des **jeux vidéo (Unity, Pico-8, Godot)**.
+Je m'appelle Julie et je suis actuellement étudiante en **développement de jeu**.
 
 Je suis par ailleurs passionnée de littérature, notamment de littérature de l'imaginaire, et de toutes formes de narrations (cinéma, jeux vidéo...). J'ai par le passé suivie des études de Lettres et d'Anglais avant de me réorienter dans l'informatique. J'aime pouvoir me prendre la tête ainsi que de créer des choses à partir de rien.
 
@@ -25,12 +21,6 @@ Sur la console imaginaire Pico-8, nous avons réalisé un jeu d'arcade rétro da
 ### [Fear of Missing Out](https://github.com/julie17-d/projet_collectif_extension_navigateur)
 
 En équipe de trois (Chris, Julie B. et moi-même), toujours sur un sprint de deux semaines, nous avons réalisé une extension de navigateur en JS, HTML et CSS.
-
----
-
-### [WordCounter](https://github.com/julie17-d/Wordcounter)
-
-Seule cette fois, j'ai décidé de créer un site simple pour découvrir le langage PHP et les bases de données MySQL. Ce site réponds à un besoin personnel : savoir le nombre de mots que je dois écrire par jour pour atteindre un objectif précis en un temps imparti. Cela me permet de mieux planifier mes sessions d'écriture !
 
 ---
 
@@ -56,12 +46,6 @@ Nous nous sommes répartis en deux équipes : la moitié d'entre nous à travail
 ### [Eat Up!](https://github.com/julie17-d/Eat_Up)
 
 Durant ma formation, j'ai eu l'occasion de me confronter à la réalisation d'une appli mobile. Le langage, la plateforme, et l'équipe était libre. Avec Zoë et Sandrine, nous avons décidé de créer une appli Android en Kotlin permettant d'avoir accès à des recettes en fonction des besoins spécifiques de chacun (végétarien, intolerant au lactose...). En quatre semaines, nous avons réussi à avoir une appli dont nous sommes fières !
-
----
-
-### [Buzzwords](https://github.com/julie17-d/buzzwords-front)
-
-Afin d'approfondir mes connaissances en React et Node.JS, ainsi que de découvrir Tailwind, je suis actuellement en pleine création d'un site type bibliothèque virtuelle. Ce site a pour but de permettre aux utilisateurs de répertorier leurs lectures passées, actuelles et futures. J'ai pour cela fais appel à l'API Google Books.
 
 ---
 
